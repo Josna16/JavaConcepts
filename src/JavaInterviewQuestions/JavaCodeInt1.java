@@ -3,7 +3,7 @@ package JavaInterviewQuestions;
 import java.util.Arrays;
 
 public class JavaCodeInt1 {
-	// Method to reverse a string
+	// Method to reverse strings
 	static String reverseString(String r) {
 		char[] array = r.toCharArray(); // convert string to char array
 		int strLength = r.length();
